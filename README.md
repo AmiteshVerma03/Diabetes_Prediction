@@ -41,7 +41,6 @@ This project demonstrates how to predict diabetes using the Pima Indians Diabete
 
 4. **Evaluation**
    - Confusion matrix, accuracy, and recall used for model evaluation
-   - No oversampling techniques like SMOTE were used
 
 ## 📊 Results
 
