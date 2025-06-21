@@ -52,5 +52,5 @@ This project demonstrates how to predict diabetes using the Pima Indians Diabete
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/diabetes-prediction-svm.git
+git clone https://github.com/AmiteshVerma03/diabetes-prediction-svm.git
 cd diabetes-prediction-svm
